@@ -145,9 +145,7 @@ Evaluating classification performance.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/eigenfaces-face-recognition.git
-cd eigenfaces-face-recognition
-
+(https://github.com/Amaal-anwar/eigenfaces-face-recognition/tree/main)
 
 Install dependencies:
 
